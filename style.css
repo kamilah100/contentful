@@ -1,0 +1,262 @@
+#image{
+    background-image: url('./image/Home_Hero_R4_2x.webp');
+    width: 100%;
+    height: auto;
+    padding-bottom: 50px;
+    border-radius: 30px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    object-fit: cover;
+    overflow: hidden;
+}
+
+.back{    
+background-color: #eff2f6 ; 
+display: flex;
+justify-content: center;
+margin-top: 30px;
+border-radius: 30px;
+padding: 20px;
+width: 400px;
+} 
+    .line{
+    margin-top: 150px;
+    margin-left: 30px;
+    margin-bottom: 70px;
+    }
+
+    .topic{
+        /* font-size: 80px; */
+        font-weight: 600;
+        margin-left: 180px;
+    }
+    .bid{
+        margin-left: 100px;
+    }
+    .lahi{
+        font-weight: 700;
+        font-size: 80px;
+    }
+    .lahh{
+        font-weight: 700;
+        font-size: 80px;
+    
+    }
+    .ketch{
+        
+        display: contents;
+
+    }
+    .duck{
+        display: flex !important;
+    }
+
+    .toma{
+        display: flex !important;
+        
+        gap: 140px;
+    }
+    
+    .bang{
+        background-color: rgb(174, 174, 229);
+        height: 14pc;
+    }
+    .tank{
+        background-color: rgb(78, 71, 75);
+        height: 14pc;
+    }
+.bank{
+    background-color: rgb(10, 89, 73);
+    height: 14pc;
+}
+.hang{
+    gap: 30px;
+}
+.cardi{
+    border: 20pc;
+}
+.toter{
+    gap: 30px;
+}
+.tampon{
+    gap: 30px;
+    margin-bottom: 120px;
+}
+.task{
+    background-color: #eff2f6 ; 
+}
+.death{
+    margin-left: 550px;
+}
+.kill{
+    font-size: 45px;
+    /* margin-left: 80px; */
+}
+.con{
+    display: flex;
+    background-color: white;
+    gap: 4px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    border-radius: 20px;
+    margin:auto;
+    /* padding:5px ; */
+    width: 290px;
+}
+.die{
+    background-color: rgb(246, 246, 9);
+    border-radius: 20px;
+    border: none;
+}
+.info{
+    padding: 70px;
+    gap: 70px;
+}
+.fatass{
+    background-color: yellow;
+    border: none;
+    width: 50px;
+    /* padding: 10px; */
+    border-radius:15px ;
+    height: 20px;
+}
+.dropdown-menu{
+    border-right: 1px solid black;
+}
+.comer{
+    display: flex;
+}
+
+
+
+
+
+
+
+
+@media screen and (max-width:480px) {
+
+    body,html{
+        overflow-x: hidden !important;
+    }
+    .con{
+        width: 100% !important;
+    }
+    .back{
+        width: 90%;
+    }
+    .love{
+        display: none !important;
+    }
+    .lov{
+        display: contents !important;
+    }
+    .bac{
+        /* width: 600px; */
+        display: flex !important;
+        flex-direction: column !important; 
+        padding: 10px;
+        /* width:20%; */
+        /* margin-right: 20px; */
+    }
+    .mark{
+        margin-left: 30px;
+        width: 250px;
+    }
+    .brack{
+        /* margin-left: -30px; */
+        margin-left: -120px !important;
+        width: 300px;
+    }
+    .time{
+        width: 60%;
+        padding: 02px;
+        height: 20;
+    }
+    .topic{
+        width: 300px;
+        margin: auto;
+    }
+    .bid{
+        margin: auto;
+        margin-left: 30px;
+    }
+    .ketch{
+        display: contents;
+    }
+    .feranmi{
+        /* display: contents !important; */
+            /* margin-left: -30px; */
+            margin-left: -90px !important;
+            /* padding-left: 20px; */
+    }
+.toma{
+    /* width:200px ; */
+    /* padding-left: 20px; */
+    margin: auto;
+    margin-left: -40px !important;
+    flex-direction: column;
+}
+.hang{
+    flex-direction: column;
+    width: 300px;
+    margin: auto;
+    border-radius: 20px;
+    margin-left: -40px !important;
+    gap: 10px;
+    /* padding: 30px; */
+}
+.kind{
+    margin-left: -15px;
+    padding: 50px;
+}
+.kond{
+    margin-left: -15px;
+    padding: 50px;
+}
+.kund{
+    margin-left: -15px;
+    padding: 50px;
+}
+.toter{
+    flex-direction: column;
+    width: 50px;
+    width: 500px !important;
+    margin-left: -10px !important;
+    width: 60% !important;
+}
+
+.toto{
+    width: 400px;
+}
+.tapi{
+    width: 400px;
+}
+.topo{
+    width: 400px;
+}
+.tapa{
+    width: 400px;
+}
+.tampon{
+    flex-direction: column;
+    width: 50px;
+    width: 500px !important;
+    margin-left: -10px !important;
+    width: 60% !important;
+}
+.comer{
+    display: flex;
+    flex-direction: column;
+    /* padding: 300px; */
+    width: 450px !important;
+    margin-left: -80px !important;
+}
+.task{
+    width: 100% !important;
+}
+
+}
