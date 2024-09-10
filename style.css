@@ -84,15 +84,22 @@ width: 400px;
     gap: 30px;
     margin-bottom: 120px;
 }
-.task{
-    background-color: #eff2f6 ; 
+.teeth{
+    background-color: #dededf ; 
+    width: 100% !important; 
+    padding-right: -200px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 .death{
     margin-left: 550px;
 }
 .kill{
     font-size: 45px;
-    /* margin-left: 80px; */
+    width: 600px;
+    margin: auto;
+    padding: 20px;
 }
 .con{
     display: flex;
@@ -127,8 +134,33 @@ width: 400px;
     border-right: 1px solid black;
 }
 .comer{
-    display: flex;
+    /* flex-direction: column; */
+    margin: auto;
+    
 }
+/* .cheat{
+    /* width: 250px; */
+/* } 
+/* .chat{
+    width: 250px;
+} */
+
+ .kind{
+    margin-left: -15px;
+    padding: 50px;
+    /* border:none; */
+}
+.kond{
+    margin-left: -15p x;
+    padding: 50px;
+    /* border:none; */
+}
+.kund{
+    margin-left: -15px;
+    padding: 50px;
+    /* border:none; */
+}
+
 
 
 
@@ -172,9 +204,10 @@ width: 400px;
         width: 300px;
     }
     .time{
-        width: 60%;
-        padding: 02px;
-        height: 20;
+        width: 100%;
+        padding: 0px 0px 0px 0px 0px !important;
+        
+        /* height: 90; */
     }
     .topic{
         width: 300px;
@@ -193,6 +226,10 @@ width: 400px;
             margin-left: -90px !important;
             /* padding-left: 20px; */
     }
+    .mxa{
+        margin-left: 30px !important;
+        margin-right: auto !important;
+    }
 .toma{
     /* width:200px ; */
     /* padding-left: 20px; */
@@ -209,18 +246,7 @@ width: 400px;
     gap: 10px;
     /* padding: 30px; */
 }
-.kind{
-    margin-left: -15px;
-    padding: 50px;
-}
-.kond{
-    margin-left: -15px;
-    padding: 50px;
-}
-.kund{
-    margin-left: -15px;
-    padding: 50px;
-}
+
 .toter{
     flex-direction: column;
     width: 50px;
@@ -228,35 +254,56 @@ width: 400px;
     margin-left: -10px !important;
     width: 60% !important;
 }
-
 .toto{
-    width: 400px;
+    width: 350px;
 }
 .tapi{
-    width: 400px;
+    width: 350px;
 }
 .topo{
-    width: 400px;
+    width: 350px;
+    margin-left: -45px;
 }
 .tapa{
-    width: 400px;
+    width: 350px;
+    margin-left: -45px;
 }
 .tampon{
     flex-direction: column;
-    width: 50px;
-    width: 500px !important;
+    /* width: 50px; */
+    /* width: 500px !important; */
     margin-left: -10px !important;
-    width: 60% !important;
+    /* width: 60% !important; */
 }
 .comer{
-    display: flex;
+    /* display: flex; */
     flex-direction: column;
-    /* padding: 300px; */
     width: 450px !important;
-    margin-left: -80px !important;
+    margin-left: -90px !important;
 }
-.task{
-    width: 100% !important;
+.teeth{
+    width: 100% !important; 
+    padding-right: -200px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
-
+.death{
+    margin-left: 100px;
+}
+.kill{
+    font-size: 30px;
+    width: 300px;
+    margin: auto;
+    padding: 20px;
+}
+.lahi{
+    font-size:60px; 
+}
+.lahh{
+    font-size:60px; 
+}
+.end{
+    margin: auto;
+}
 }
